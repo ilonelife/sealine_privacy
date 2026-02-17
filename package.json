@@ -1,0 +1,23 @@
+{
+  "name": "sealine-privacy-policy",
+  "version": "1.0.0",
+  "description": "Sealine 카약 투어 앱 개인정보처리방침",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "privacy-policy",
+    "sealine",
+    "kayak",
+    "tour",
+    "개인정보처리방침"
+  ],
+  "author": "Sealine Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
